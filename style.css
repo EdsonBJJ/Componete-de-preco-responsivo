@@ -34,10 +34,36 @@ main {
   display: flex;
   background-color: #ffffff;
   border-radius: 10px 10px 0px 0px;
+  padding: 19px 39px 23px 39px;
+}
+
+
+.titulo {
+  color: hsl(179, 62%, 43%);
+}
+
+.texto1 {
+  padding-top: 6px;
+  color: hsl(71, 73%, 54%);
+  font-weight: 700;
+  font-size: 1.12rem;
+}
+
+.texto2 {
+  color: hsl(218, 22%, 67%);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
 }
 
 .bloco2 {
   display: flex;
   flex-direction: row;
   width: 100%;
+}
+
+.bloco_esquerdo {
+  padding: 39px 40px 39px 39px;
+  background-color: #2bb3b1;
+  border-radius: 0 0 0 10px;
 }
