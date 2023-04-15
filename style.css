@@ -67,3 +67,12 @@ main {
   background-color: #2bb3b1;
   border-radius: 0 0 0 10px;
 }
+
+.bloco2_conteudo {
+  display: block;
+}
+
+.bloco2_titulo {
+  font-family: 'karla', sans-serif;
+  color: #ffffff;
+}
