@@ -76,3 +76,51 @@ main {
   font-family: 'karla', sans-serif;
   color: #ffffff;
 }
+
+.price {
+  display: contents;
+  color: #ffffff;
+
+}
+
+.pormes {
+  font-weight: 100;
+  color: #79e5e7;
+}
+
+.bloco2_texto {
+  color: #ffffff;
+}
+
+.bloco2_botao {
+  display: flex;
+  justify-content: center;
+}
+
+.botao {
+  background-color: hsl(71, 73%, 54%);
+  border-radius: 10%;
+  box-shadow: 0px 8px 9px 3px #26a39f;
+}
+
+.bloco3 {
+  background-color: #4abebd;
+  padding: 40px 85px 15px 40px;
+  border-radius: 0 0 10px 0;
+}
+
+.bloco3_conteudo {}
+
+.bloco3_titulo {
+  font-family: 'karla', sans-serif;
+  color: #ffffff;
+}
+
+.bloco3_texto {
+  list-style: none;
+  padding-left: 0;
+}
+
+.bloco3_lista {
+  color: #ffffff;
+}
